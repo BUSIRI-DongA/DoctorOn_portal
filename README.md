@@ -28,11 +28,7 @@ AI 비서가 매일 건강 상태를 체크하고, 고위험군 판단 시 병�
 
 ## 🧠 사용 기술 스택
 
-- **Frontend**: React Native (TypeScript)
-- **AI 분석**: OpenAI GPT-3.5 Turbo
-- **음성 인식**: react-native-voice
-- **디자인**: Flat UI + Senior Friendly UX
-- **iOS 빌드**: Xcode, Apple Developer Account
+![기술스택](https://github.com/BUSIRI-DongA/DoctorOn_portal/blob/main/pickbus.drawio.png)
 
 ---
 
